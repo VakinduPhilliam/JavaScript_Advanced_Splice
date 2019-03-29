@@ -6,3 +6,4 @@ The scripts are written in JavaScript.
 One script explores the process of adding one value to an already sorted array; the other explores adding multiple elements of an unsorted array to an already sorted array.
 The scripts make use of the JavaScript method splice.
 Written by Vakindu Philliam
+
